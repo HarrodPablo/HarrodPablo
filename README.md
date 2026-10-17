@@ -17,5 +17,5 @@ I am a Software Engineer based in **San Miguel de Tucumán, Argentina**, special
 ### 📫 Let's Connect
 
 - 🌐 **Portfolio:** [portfolio-pabloharrod.vercel.app](https://portfolio-pabloharrod.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/pabloharrod](https://www.linkedin.com/in/pabloharrod)
+- 💼 **LinkedIn:** [linkedin.com/in/pabloharrod](https://www.linkedin.com/in/pablo-ezequiel-harrod-b172423ab/)
 - 📧 **Email:** [harrod.pablo@gmail.com](mailto:harrod.pablo@gmail.com)
